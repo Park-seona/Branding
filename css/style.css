@@ -794,3 +794,6 @@ header .header_box ul.gnb>li:hover>a {
     font-weight: bold;
     color: #000;
 }
+.about_more li p:hover {
+    color: #27483E;
+}
