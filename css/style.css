@@ -128,7 +128,6 @@ header .header_box ul.gnb>li:hover>a {
 }
 .personal_br ul.personal_txt li {
     float: right;
-    position: relative;
 }
 .personal_br ul.personal_txt li a {
     display: block;
@@ -160,7 +159,6 @@ header .header_box ul.gnb>li:hover>a {
 }
 .research ul.research_txt li {
     float: right;
-    position: relative;
 }
 .research ul.research_txt li a {
     display: block;
